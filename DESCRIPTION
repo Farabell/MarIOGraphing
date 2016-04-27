@@ -1,8 +1,8 @@
 Package: MarIOGraphing
-Title: What the Package Does (one line, title case)
+Title: Graphing functions for MarIO data
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Kristen", "Rodriguez", email = "Kristen24@gmail.com", role = c("aut", "cre"))
+Description: This package creates graphs for analyzing MarIO data
 Depends:
     R (>= 3.2.2)
 License: What license is it under?
